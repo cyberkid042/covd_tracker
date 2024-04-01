@@ -27,7 +27,7 @@ class _MyAppState extends State<Splash> {
       photoSize: 100.0,
       loaderColor: Colors.white,
       loadingText: Text(
-        "Made with ♥️ in Newfoundland \n Developed By Daniel Obi \n Concept By Yumna",
+        "Made with ♥️ in Newfoundland \n Developed By Dan O",
         textAlign: TextAlign.center,
         style: TextStyle(
           color: Colors.white,
